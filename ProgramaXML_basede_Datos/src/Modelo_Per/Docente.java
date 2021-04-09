@@ -1,8 +1,5 @@
 package Modelo_Per;
-/**
- *
- * @author danielmora
- */
+
 import javax.swing.JTextField;
 
 public class Docente {
